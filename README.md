@@ -101,7 +101,7 @@ O Projeto utilizou Python 3 e as seguintes bibliotecas:
 **Meus Links:**
 
 * [LinkedIn](https://www.linkedin.com/in/leandro-minervino-b469681b/)
-* [Colab](https://colab.research.google.com/drive/1SkgqRVi2Y6016fKROhCkTVGpUivDyu3G?usp=sharing)
+* [Colab](https://colab.research.google.com/drive/1a0zzNGWBDpUrskQUvVf2J8c36gfOvJs0?usp=sharing)
 
 
 
